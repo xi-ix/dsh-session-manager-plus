@@ -1,4 +1,6 @@
-# dsh-session-manager — session and workspace manager for DeepSeek Harness
+# dsh-session-manager-plus — session and workspace manager for DeepSeek Harness (fork)
+
+> ⚠️ **This package is a fork of [hkkz9522/dsh-session-manager](https://github.com/hkkz9522/dsh-session-manager).** Favorites / review-later / priority / auto-update were removed; tag colors and a historical-tag dropdown were added. Thanks to the original author.
 
 English | [中文](README.zh.md)
 

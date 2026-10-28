@@ -1,7 +1,7 @@
 {
-  "name": "dsh-session-manager",
-  "version": "0.7.5",
-  "description": "DeepSeek Harness session and workspace manager —— Workspaces: archive and visibility. Sessions: move, migrate presets, delete, favorite, review later, prioritize, tag, and annotate. Batch operations. | DSH 会话与工作区管理——工作区：归档与显示。会话：跨工作区移动、预设迁移、删除；收藏、待回看、优先级、标签、备注。批量操作。",
+  "name": "dsh-session-manager-plus",
+  "version": "0.7.6",
+  "description": "Fork of hkkz9522/dsh-session-manager, customized: favorites/review-later/priority/update removed, tag colors + historical-tag dropdown added. Sessions: move, migrate presets, delete, tag. Batch operations. | 基于 hkkz9522/dsh-session-manager 修改的自改版：移除收藏/待回看/优先级/更新，新增标签颜色 + 历史标签下拉。会话移动、预设迁移、删除、标签、批量操作。",
   "license": "MIT",
   "keywords": [
     "dsh",

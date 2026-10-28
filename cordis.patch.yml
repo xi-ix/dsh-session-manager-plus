@@ -1,5 +1,5 @@
 # dsh-session-manager bundle 层：插入会话管理器插件行。
 - insert:
-    - id: dsh-session-manager
-      name: 'dsh-session-manager'
+    - id: dsh-session-manager-plus
+      name: 'dsh-session-manager-plus'
       config: {}

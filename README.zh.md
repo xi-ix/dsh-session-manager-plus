@@ -1,4 +1,6 @@
-# dsh-session-manager — DeepSeek Harness 会话与工作区管理器
+# dsh-session-manager-plus — DeepSeek Harness 会话与工作区管理器（自改版）
+
+> ⚠️ **本包是 [hkkz9522/dsh-session-manager](https://github.com/hkkz9522/dsh-session-manager) 的修改版（fork）。** 在原版基础上移除了收藏 / 待回看 / 优先级 / 自动更新功能，新增了标签颜色与历史标签下拉选择。感谢原作者的贡献。
 
 [English](README.md) | 中文
 
